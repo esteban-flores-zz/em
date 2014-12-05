@@ -1,0 +1,1 @@
+<p class="msg" style="text-align: center;">Your message has been sent.</p>

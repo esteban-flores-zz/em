@@ -1,0 +1,1 @@
+<p class="msg" style="text-align: center;">You have logged out.</p>

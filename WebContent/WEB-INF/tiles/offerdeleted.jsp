@@ -1,0 +1,1 @@
+<p class="msg" style="text-align: center;">Your offer has been deleted.</p>

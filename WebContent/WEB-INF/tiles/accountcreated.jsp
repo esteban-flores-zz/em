@@ -1,0 +1,1 @@
+<p class="msg" style="text-align: center;">Your account has been created.</p>

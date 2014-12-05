@@ -1,0 +1,1 @@
+<p class="msg" style="text-align: center;">Offer created: <a href="${pageContext.request.contextPath}/">click here to view current offers.</a></p>
