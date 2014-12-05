@@ -21,7 +21,7 @@
 	</li>
 	
 	<li>
-		<a class="wiki" href="<c:url value='https://github.com/h3art/OTE/wiki/Installation'/>">Wiki</a>
+		<a class="wiki" href="<c:url value='https://github.com/h3art/em/wiki/'/>">Wiki</a>
 	</li>
 	
 </ul>
